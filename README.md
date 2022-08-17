@@ -19,13 +19,16 @@ Os principais sintomas incluem fadiga, sensibilidade ao frio, constipação, pel
   <p>*Pele seca.</p>
   <p>*Queda de cabelo.</p>
   <p>*Ganho de peso e aumento de colesterol no sangue estão entre os sintomas do hipotieroidismo.</p>
+  
   <strong>Curiosidades sobre Hipotireoidismo.</strong>
   <p>*Em recém-nascidos, o hipotireoidismo pode ser diagnosticado atravéz da triagem neonatal, pelo "Teste do Pezinho".</p>
   <p>*Cerca de um a 4 mil recém-nascidos possuem hipotireoidismo congênito.</p>
      <strong>Quando foi descoberto o hipotireoidismo</strong>
      <p>A descoberta da tireoide ocorreu em 1656, por Thomas Warton, que realizava uma pesquisa sobre glândulas.</p>
+
   <strong>Qual a causa do Hipotireodismo?</strong>
    <p>A causa mais comum de hipotireoidismo é a Tireoidite de Hashimoto, que é uma doença autoimune, em que os anticorpos começam a atacar a glândula tireoide, como se ela fosse nociva ao próprio corpo. Além disso, o hipotireoidismo pode acontecer devido à deficiência de iodo, que é uma condição conhecida como bócio, em que há aumento do tamanho da tireoide, porém menor quantidade de T3 e T4 devido à diminuição da concentração de iodo.<p>
+
    <strong>Diagnostico para hipotiroidismo</strong>
    <p>O diagnóstico laboratorial do hipotireoidismo é feito através da dosagem sérica de TSH e T4 livre (T4L). O TSH é padrão-ouro para avaliação da função tireoidiana, com sensibilidade de 98% e especificidade de 92% para definição do diagnóstico.
      
